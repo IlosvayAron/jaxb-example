@@ -28,5 +28,4 @@ public class Movie {
 
     @XmlAttribute
     private URL url;
-
 }
